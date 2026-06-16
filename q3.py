@@ -18,3 +18,11 @@ def update_dictionary(dct, key, value):
 # - {"age": 25}, "age", 26
 update_dictionary({}, "name", "Alice")
 update_dictionary({"age": 25}, "age", 26)
+
+# Result as follows:
+'''
+Case of current dictionary as {}
+   Final dictionary as {'name': 'Alice'}
+Case of current dictionary as {'age': 25}
+   Final dictionary as {'age': 26}
+'''
