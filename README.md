@@ -29,6 +29,11 @@ Case of list as ['apple', 'banana', 'apple']
 Result for q3.py:
 
 Case of current dictionary as {}
+
    Final dictionary as {'name': 'Alice'}
+
 Case of current dictionary as {'age': 25}
+
    Final dictionary as {'age': 26}
+
+
