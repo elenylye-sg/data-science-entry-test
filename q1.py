@@ -28,3 +28,10 @@ def swap(x, y):
 swap("Apple", 10)
 swap(9, 17)
 
+# Result as follows:
+'''
+Case of swapping x as Apple and y as 10:
+     x is not numeric
+Case of swapping x as 9 and y as 17:
+     After swap, x is 17 and y is 9
+'''
