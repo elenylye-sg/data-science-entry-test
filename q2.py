@@ -21,3 +21,13 @@ def find_and_replace(lst, find_val, replace_val):
 # - ["apple", "banana", "apple"], "apple", "orange"
 find_and_replace([1, 2, 3, 4, 2, 2], 2, 5)
 find_and_replace(["apple", "banana", "apple"], "apple", "orange")
+
+# Result as follows:
+'''
+Case of list as [1, 2, 3, 4, 2, 2]
+  Replacing 2 with 5
+  Final list is [1, 5, 3, 4, 5, 5]
+Case of list as ['apple', 'banana', 'apple']
+  Replacing apple with orange
+  Final list is ['orange', 'banana', 'orange']
+'''
