@@ -20,3 +20,11 @@ def string_reverse(s):
 # - "Python"
 string_reverse("Hello World")
 string_reverse("Python")
+
+# Result as follows:
+'''
+Case of string as "Hello World":
+   dlroW olleH
+Case of string as "Python":
+   nohtyP
+'''
