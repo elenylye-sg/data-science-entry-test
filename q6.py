@@ -21,3 +21,11 @@ def find_first_negative(lst):
 # - [2, 10, 7, 0]
 find_first_negative([3, 5, -1, 7, -2, 8])
 find_first_negative([2, 10, 7, 0])
+
+# Result as follows:
+'''
+Case of list as [3, 5, -1, 7, -2, 8]
+  First negative number found, -1
+Case of list as [2, 10, 7, 0]
+  No negative number found
+'''
