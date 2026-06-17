@@ -25,4 +25,23 @@ Result for q3.py:
      Case of current dictionary as {'age': 25}
         Final dictionary as {'age': 26}
 
+Result for q4.py:
+
+     Case of string as "Hello World":
+        dlroW olleH
+     Case of string as "Python":
+        nohtyP
+
+Result for q5.py:
+
+     Case of divisibility, numerator as 10 and divisor as 2:
+       Quotient: 5
+       Remainder: 0
+       Divisibility True
+     Case of divisibility, numerator as 7 and divisor as 3:
+       Quotient: 2
+       Remainder: 1
+       Divisibility False
+
+
 
