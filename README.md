@@ -43,5 +43,20 @@ Result for q5.py:
        Remainder: 1
        Divisibility False
 
+Result for q6.py:
+
+     Case of list as [3, 5, -1, 7, -2, 8]
+       First negative number found, -1
+     Case of list as [2, 10, 7, 0]
+       No negative number found
+
+Result for q7.py:
+
+     Car:
+       Toyota
+       Corolla
+       2020
+
+
 
 
