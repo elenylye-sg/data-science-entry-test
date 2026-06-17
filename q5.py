@@ -28,3 +28,15 @@ def check_divisibility(num, divisor):
 # - 7, 3
 check_divisibility(10, 2)
 check_divisibility(7, 3)
+
+# Result as follows:
+'''
+Case of divisibility, numerator as 10 and divisor as 2:
+  Quotient: 5
+  Remainder: 0
+  Divisibility True
+Case of divisibility, numerator as 7 and divisor as 3:
+  Quotient: 2
+  Remainder: 1
+  Divisibility False
+'''
