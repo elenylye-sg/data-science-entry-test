@@ -23,3 +23,11 @@ class Car:
 if __name__ == "__main__":
     car1 = Car("Toyota", "Corolla", 2020)
     car1.describe_car()
+
+# Result as follows:
+'''
+Car:
+  Toyota
+  Corolla
+  2020
+'''
